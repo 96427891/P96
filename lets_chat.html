@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room server</title>
+    <link rel="stylesheet" type="text/css" href="chat.css">
+</head>
+<body>
+    <button onclick="logout()">LOGOUT</button>
+    <center>
+        <h1 id="roomname"></h1>
+        <h1 id="label">Welcome to the chatting room. Here, you can talk to other people.</h1>
+        <div id="output">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+        <input id="text_input" type="text" placeholder="type message here">
+        <button onclick="send_message()" id="send_btn">SEND</button>
+    </center>
+    <script src="chat.js"></script>
+</body>
+</html>

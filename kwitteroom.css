@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 255, 195);
+}
+#logout_btn{
+    background-color:greenyellow;
+    color:blue;
+    font-family: monospace;
+    font-size: 30;
+}
+#Welcome_label{
+    font-size: 55;
+}
+#room_name_input{
+    font-size: 31;
+    border-radius: 10px;
+    color: blueviolet;
+}
+#addroom_btn{
+    background-color:red;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#room_name_label{
+    font-size:40;
+    font-family:sans-serif;
+}
+#room_name_storage{
+    border:brown;
+    border-color:brown;
+    font-size: 25;
+    background: lightblue;
+    height: 500px;
+    border-radius: 5px;
+    border-width: 10px;
+}

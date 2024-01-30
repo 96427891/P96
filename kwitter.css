@@ -1,0 +1,28 @@
+#login_button{
+    font-size: 25px;
+}
+body{
+    background-color: rgb(0, 255, 195);
+}
+#title{
+    font-family: sans-serif;
+}
+#heading{
+    font-family: monospace;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: cursive;
+}
+button{
+   background-color: blue; 
+   color: aliceblue;
+}
+input{
+    color: rgb(170, 0, 0);
+    font-family: serif;
+    background-color: rgb(169, 254, 0);
+    font-size: 25px;
+}
